@@ -3,6 +3,7 @@ apt upgrade -y
 apt install -y python
 apt install -y python-pip
 apt install -y unzip
+apt install -y wget
 cd /tmp
 wget https://github.com/OlympicCode/vHackXTBot-Python/archive/master.zip
 unzip master.zip
