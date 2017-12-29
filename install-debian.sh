@@ -4,6 +4,7 @@ apt install -y python
 apt install -y python-pip
 apt install -y unzip
 apt install -y wget
+apt install -y python-pillow
 cd /tmp
 wget https://github.com/OlympicCode/vHackXTBot-Python/archive/master.zip
 unzip master.zip
