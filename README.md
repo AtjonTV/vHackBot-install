@@ -2,7 +2,7 @@
 This is a Script to install vHackBotXT-Python by OlympicCode
 
 # Help out
-### If you see anything i sould change in the scripts please open a new [issue](https://github.com/AtjonTV/vHackBot-install/issues) and send me the correct script, thanks!
+### If you see anything i should change in the scripts please open a new [issue](https://github.com/AtjonTV/vHackBot-install/issues) and send me the correct script, thanks!
 
 # Info
 I do not guarantee that any script works accept Debian/Ubuntu
