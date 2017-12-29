@@ -14,13 +14,13 @@ I do not guarantee that any script works accept Debian/Ubuntu
 # Install on Debian
 >$ cd ~/Downloads  
 >$ wget https://raw.githubusercontent.com/AtjonTV/vHackBot-install/master/install-debian.sh  
->$ ./install-debian.sh  
+>$ sudo sh install-debian.sh  
 >$ vim ~/vhack-bot/config.py  
 >$ python ~/vhack-bot/main.py
 
 # Install on Ubuntu
 >$ cd ~/Downloads  
 >$ wget https://raw.githubusercontent.com/AtjonTV/vHackBot-install/master/install-ubuntu.sh  
->$ ./install-ubuntu.sh  
+>$ sudo sh install-ubuntu.sh  
 >$ vim ~/vhack-bot/config.py  
 >$ python ~/vhack-bot/main.py
