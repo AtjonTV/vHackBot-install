@@ -5,7 +5,7 @@ apt install -y python-pip
 apt install -y unzip
 apt install -y screen
 cd /tmp
-wget https://github.com/AtjonTV/vHackXTBot-Python/archive/master.zip
+wget https://github.com/OlympicCode/vHackXTBot-Python/archive/master.zip
 unzip master.zip
 mv vHackXTBot-Python-master ~/vhack-bot
 cd ~/vhack-bot
